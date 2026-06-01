@@ -1,5 +1,12 @@
-## Hi there 👋
+Hi, I'm Meet Vachheta 👋
+Full Stack Developer (MERN) from Ahmedabad, Gujarat
 
+🚀 Building: AI-powered web apps with React, Node.js & MongoDB
+🔭 Latest project: NextHire — AI interview prep platform
+💬 Ask me about: MERN stack, REST APIs, JWT auth
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/meet-vachheta-554414258)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/meet196)
 <!--
 **meet196/Meet196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
